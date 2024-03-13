@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-###  TO RUN THE PROGRAM:
+###  TO RUN THE PROGRAM (USE VSCODE as IDE):
 ### Step 1: in the terminal type: `npm install`
 ### Step 2: after everything is installed, in the terminal type: `npm start`
 ### Step 3: Once finished starting, open your browser at the url (http://localhost:3000)
